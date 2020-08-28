@@ -8,4 +8,4 @@ service: docker
 
 script:
   - tty
-  - docker run -i ubuntu:18.04 bash -c 'tty'
+  - docker run -i ubuntu:18.04 bash -c 'arch'
