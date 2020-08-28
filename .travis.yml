@@ -7,5 +7,5 @@ sudo: required
 service: docker
 
 script:
-  - tty
-  - docker run -i ubuntu:18.04 bash -c 'arch'
+  - w
+  - docker run -i ubuntu:18.04 bash -c 'w'
