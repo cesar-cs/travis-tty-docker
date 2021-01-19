@@ -12,3 +12,4 @@ script:
   - docker run -i ubuntu:18.04 bash -c 'who'
   - docker run -t ubuntu:18.04 bash -c 'who'
   - docker run -it ubuntu:18.04 bash -c 'who'
+
